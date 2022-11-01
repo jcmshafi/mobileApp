@@ -1,0 +1,7 @@
+<resources>
+    <string name="helloToast">Hello Toast</string>
+    <string name="textview">0</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_count">Count</string>
+    <string name="message">Hello Toast</string>
+</resources>
